@@ -9,5 +9,6 @@ classDiagram
     } 
     class Admin { 
         -String role 
-        +deleteUser() 
+        +deleteUser()
+}
 ```
