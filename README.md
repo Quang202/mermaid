@@ -1,10 +1,8 @@
 # mermaid
 ```mermaid 
 graph LR 
-    A --> B 
-    A --- C 
-    A -.-> D 
-    A ==> E 
-    A -.- F 
-    A === G
+    A -->|Có| B 
+    B -->|Không| C 
+    C -.Có thể.-> D 
+    D ==Chắc chắn==> E
 ```
