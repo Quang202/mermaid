@@ -1,8 +1,6 @@
 # mermaid
 ```mermaid 
-graph LR 
-    A -->|Có| B 
-    B -->|Không| C 
-    C -.Có thể.-> D 
-    D ==Chắc chắn==> E
+sequenceDiagram 
+    Alice->>+John: Xin chào John 
+    John-->>-Alice: Chào Alice
 ```
