@@ -1,6 +1,6 @@
 # mermaid
 ```mermaid 
-graph DT 
+graph RL 
     A[Hình chữ nhật] 
     B(Hình bo góc) 
     C([Hình stadium]) 
